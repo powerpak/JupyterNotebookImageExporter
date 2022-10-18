@@ -12,7 +12,7 @@ Output formats include a directory of images or a PDF file (via [img2pdf](https:
 
 ### Using source code
 ```
-git clone https://github.com/damienmarlier51/JupyterNotebookImageExporter.git
+git clone https://github.com/powerpak/JupyterNotebookImageExporter.git
 cd JupyterNotebookImageExporter; python setup.py install
 ```
 
