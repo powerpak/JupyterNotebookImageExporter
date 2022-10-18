@@ -52,4 +52,5 @@ By running the following commands:
 <img width="333" alt="Screenshot 2019-09-15 at 1 52 45 PM" src="https://user-images.githubusercontent.com/9989010/64917371-5fa84000-d7c2-11e9-9f65-e9a53fc7d781.png"> 
 
 ## License
-This project is licensed under the MIT License
+
+This project is licensed under the MIT license (see LICENSE.txt). It was forked from [damienmarlier51's repo](https://github.com/damienmarlier51/Junix) which is also MIT licensed.
